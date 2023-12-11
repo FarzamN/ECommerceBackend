@@ -15,10 +15,9 @@
           "src/types/*"
         ]
       },
-      "types": ["node", "bcrypt"] // Add this line
+      "types": ["node","jsonwebtoken", "bcrypt"] // Add this line
     },
     "include": [
       "index.ts"
     ]
   }
-  
